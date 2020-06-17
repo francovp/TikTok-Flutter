@@ -49,9 +49,6 @@ I use Firebase Storage for videos and Profile Pic's, but you can set the URL to 
 
 <img src="https://raw.githubusercontent.com/salvadordeveloper/TikTok-Flutter/master/images/Storage.png" alt="drawing" width="500"/>
 
-I use Firebase Storage for videos and Profile Pic's, but you can set the URL to any server that you want.
-
-<img src="https://raw.githubusercontent.com/salvadordeveloper/TikTok-Flutter/master/images/Storage.png" alt="drawing" width="700"/>
 
 ## TODO
 
